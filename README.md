@@ -9,6 +9,7 @@
 
 ## **💻 유튜브 강좌 따라해본 것들**
 - [나도코딩](https://www.youtube.com/@nadocoding)
+- [김왼손의 왼손코딩](https://www.youtube.com/@leftykhim)
 <br>
 <br>
 
